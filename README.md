@@ -8,10 +8,14 @@
 - Contribute to open source projects and grow with the community
 
 - *If you've made it this far, why don't you leave a star on my projects, or say hi*.
+
 ##
 <div style="display: inline_block"><br>
 <img align="center" alt="Isac-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
-<img align="center" alt="Isac-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualbasic/visualbasic-original.svg">
+<img align="center" alt="Isac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Isac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 </div>
 
 ##
